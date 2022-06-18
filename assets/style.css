@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(14, 12, 109) ;
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flexbox-box {
+    min-height: 200px;
+    width: 200px;
+    margin: 10px;
+    background-color: aqua;
+    border: 3px solid rgb(233, 15, 135) 
+    
+}
+
